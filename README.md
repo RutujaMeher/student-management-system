@@ -212,11 +212,3 @@ http://localhost:5173
 - Export marks to PDF
 - Pagination
 
-## 👨‍💻 Author
-
-👤 **Rushikesh Parmeshwar Wakode**
-- Full Stack Developer (React + Node + PostgreSQL)
-
-* Github: [@rushiwakode](https://github.com/rushiwakode)
-* LinkedIn: [@rushikesh-wakode](https://linkedin.com/in/rushikesh-wakode)
-
